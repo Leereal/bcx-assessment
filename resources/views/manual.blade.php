@@ -6,7 +6,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
-                    <h2>User Manual (How to use the app)</h2>
+                    <h2>Admin Logins</h2>
                 </div>
 
                 <div class="card-body">
